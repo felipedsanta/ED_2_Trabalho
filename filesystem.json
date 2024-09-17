@@ -1,0 +1,1 @@
+{"name": "/", "is_directory": true, "children": {"home": {"name": "home", "is_directory": true, "children": {"user": {"name": "user", "is_directory": true, "children": {"file2.txt": {"name": "file2.txt", "is_directory": false, "children": {}}}}, "file_renamed.txt": {"name": "file_renamed.txt", "is_directory": false, "children": {}}}}}}
